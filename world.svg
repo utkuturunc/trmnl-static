@@ -27,7 +27,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 -->
-<svg baseprofile="tiny" fill="#666666" height="857" stroke="black" stroke-width="1" version="1.2" viewbox="0 0 2000 857" width="2000" xmlns="http://www.w3.org/2000/svg">
+<svg baseprofile="tiny" fill="#666666" height="857" stroke="black" stroke-width="3" version="1.2" viewbox="0 0 2000 857" width="2000" xmlns="http://www.w3.org/2000/svg">
   <pattern id="planned" patternUnits="userSpaceOnUse" width="4" height="4">
     <rect x="0" y="0" width="4" height="4" stroke="transparent" fill="#666666"/>
     <path d="M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2" style="stroke:#6a6a6a; stroke-width:1"/>
